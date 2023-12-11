@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "962503140684",
+    "firebase_url": "https://food-valley-36307-default-rtdb.firebaseio.com",
+    "project_id": "food-valley-36307",
+    "storage_bucket": "food-valley-36307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962503140684:android:46a897e5d45fecf94a9be9",
+        "android_client_info": {
+          "package_name": "com.sakib635.sakibsfoodvalley"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Ng1qQeDalEBTkioRcQetyDDV-99RE7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
